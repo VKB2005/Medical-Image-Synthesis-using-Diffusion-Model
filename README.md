@@ -1,6 +1,7 @@
 # Medical-Image-Synthesis-using-Diffusion-Model
 
-Generate synthetic **X-ray**, **CT**, **MRI**, and **Ultrasound** images using **pre-built diffusion models** to support medical imaging research. 
+Generate synthetic **X-ray**, **CT**, **MRI**, and **Ultrasound** images using **pre-built diffusion models** to support medical imaging research.  
+
 
 
 ---
